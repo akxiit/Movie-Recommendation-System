@@ -2,4 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+nltk       ## For the removing the same kind of the word
 #-e .
