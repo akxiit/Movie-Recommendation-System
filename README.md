@@ -1,3 +1,3 @@
 ## This is Movie-Recommendation-System.
 
-##### We use the AutoMl structure for this model
+##### We use the AutoML structure for this model
